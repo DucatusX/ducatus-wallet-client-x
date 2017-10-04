@@ -18,7 +18,7 @@ var log = require('../lib/log');
 var Bitcore = require('ducatuscore-lib');
 var Bitcore_ = {
   btc: Bitcore,
-  bch: require('bitcore-lib-cash'),
+  bch: require('ducatuscore-lib-cash'),
 };
 
 
