@@ -22,7 +22,7 @@ var Bitcore_ = {
 };
 
 
-var BitcorePayPro = require('bitcore-payment-protocol');
+var BitcorePayPro = require('ducatuscore-payment-protocol');
 
 var BWS = require('ducatuscore-wallet-service');
 
