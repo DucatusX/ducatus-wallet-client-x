@@ -26,11 +26,11 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib.git",
+    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib-x.git",
     "ducatuscore-lib-cash": "git@github.com:bitpay/bitcore-lib.git#cash",
     "bitcore-lib-cash": "git@github.com:bitpay/bitcore-lib.git#cash",
-    "ducatuscore-mnemonic": "git+ssh://git@github.com/Ducatus/ducatuscore-mnemonic.git",
-    "ducatuscore-payment-protocol": "git+ssh://git@github.com/Ducatus/ducatuscore-payment-protocol.git",
+    "ducatuscore-mnemonic": "git+ssh://git@github.com/Ducatus/ducatuscore-mnemonic-x.git",
+    "ducatuscore-payment-protocol": "git+ssh://git@github.com/Ducatus/ducatuscore-payment-protocol-x.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",
@@ -38,7 +38,7 @@
     "superagent": "^3.4.1"
   },
   "devDependencies": {
-    "ducatuscore-wallet-service": "git+ssh://git@github.com/Ducatus/ducatuscore-wallet-service.git",
+    "ducatuscore-wallet-service": "git+ssh://git@github.com/Ducatus/ducatuscore-wallet-service-x.git",
     "browserify": "^13.1.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
